@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Chamodya-ka
-- 👀 I’m interested in computer vision, ML and AI
 - 🌱 I’m currently learning and will always be
 
 <!---
